@@ -1,0 +1,4 @@
+!pip3 install pydub
+!pip3 install pyAudioAnalysis
+!pip install eyed3
+!pip install pydub
